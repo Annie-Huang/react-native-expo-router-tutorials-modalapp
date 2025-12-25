@@ -11,6 +11,7 @@ export default function RootLayout() {
         options={{ title: 'Modal', presentation: 'modal' }} // unable to swap down to make the modal disappear like the ones shows in the tutorial
       />
 
+      {/* Click outside on this webmodal will work too! (from the implementation of webmodal.tsx) */}
       <Stack.Screen
         name='webmodal'
         options={{
