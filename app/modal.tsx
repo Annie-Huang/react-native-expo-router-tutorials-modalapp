@@ -5,7 +5,7 @@ import { Text, View, StyleSheet } from 'react-native';
 const Modal = () => {
   return (
     <View style={styles.container}>
-      <Text></Text>
+      <Text>Modal</Text>
     </View>
   );
 };

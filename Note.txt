@@ -1,6 +1,6 @@
 Expo Router Tutorial
 (Expo Router Tutorial - 13 - Modals)
-(This is for showing the new page content inside Modal)
+(This is for showing the new page content inside Modal when the link is clicked)
 (https://www.youtube.com/playlist?list=PLC3y8-rFHvwgVmqbtQkPDxkvDf6w5_eGA)
 
 https://github.com/gopinav/Expo-Router-Tutorials/tree/main/ModalApp
