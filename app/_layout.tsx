@@ -7,7 +7,7 @@ export default function RootLayout() {
       <Stack.Screen name='index' options={{ title: 'Home' }} />
       <Stack.Screen
         name='modal'
-        options={{ title: 'Modal', presentation: 'modal' }}
+        options={{ title: 'Modal', presentation: 'modal' }} // unable to swap down to make the modal disappear like the ones shows in the tutorial
       />
     </Stack>
   );

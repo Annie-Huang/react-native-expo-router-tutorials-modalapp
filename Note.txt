@@ -27,3 +27,7 @@ Syntax:
     name='modal'
     options={{ title: 'Modal', presentation: 'modal' }}
   />
+
+
+Advantage to use file-based syntax to create the modal:
+- We got dedicated URL for the page, good for SEO
